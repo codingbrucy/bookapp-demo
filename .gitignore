@@ -1,2 +1,16 @@
+# Claude
 .claude/settings.local.json
+
+# OS
 .DS_Store
+
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+
+# Environment
+.env
+.env.local
+.env.*.local
